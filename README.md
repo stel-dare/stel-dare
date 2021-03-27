@@ -3,4 +3,4 @@
 
  Hit me up on twitter or email and let us conspire to take over the world.
  
- I have a blog: [https://algorithmscripting.netlify.app](https://algorithmscripting.netlify.app) and I'm available for hiring 🙂.
+ Visit my blog [akosuaaakimbo.me](https://www.akosuaaakimbo.me) 😀.
