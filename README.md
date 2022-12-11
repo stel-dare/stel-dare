@@ -1,6 +1,7 @@
-## Hey
- I'm Stella and these are my side projects 😅. Most of them are unfinished and some are very embarrassing but at least you get to know what goes on in my head 🙃.
+## Welcome to my GitHub profile!
 
- Hit me up on twitter or email and let us conspire to take over the world.
- 
- Visit my blog [akosuaaakimbo.me](https://www.akosuaaakimbo.me) 😀.
+I am a software engineer at Revel, where I work primarily with React, Node.js, GraphQL, and Postgres. I am also proficient in Typescript, and I am always looking to improve my skills and learn new technologies.
+
+In addition to my work at Revel, I am passionate about entrepreneurship and am interested in starting my own business. I am also committed to financial independence and the concept of retiring early.
+
+On my GitHub profile, you can find some of the projects I have worked on, both personal and professional. Feel free to take a look and reach out if you have any questions or comments. Thanks for visiting!
