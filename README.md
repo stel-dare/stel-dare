@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile!
+## Welcome!
 
 I am a software engineer at Revel, where I work primarily with React, Node.js, GraphQL, and Postgres. I am also proficient in Typescript, and I am always looking to improve my skills and learn new technologies.
 
